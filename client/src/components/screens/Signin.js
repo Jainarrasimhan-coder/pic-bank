@@ -52,7 +52,7 @@ export const Signin = () => {
     return (
         <div className="mycard">
         <div className="card auth-card input-field">
-          <h2>Instagram</h2>
+          <h2>pic bank</h2>
           <input
           type="text"
           placeholder="email"
